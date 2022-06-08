@@ -1,7 +1,7 @@
 ### Olá! It's me! Henrique Andrade!
 
 - 🔭 Em busca do primeiro emprego como dev.
-- 🌱 Atualmente estudando Typescript
+- 🌱 Atualmente estudando PostgresSQL.
 - 📫 Meu contato: henrique_yujiandrade@hotmail.com
 
 <div align="center">
